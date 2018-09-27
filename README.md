@@ -1,4 +1,4 @@
-# contador_pessoas
+# Contador de Pessoas
 
 App para contar pessoas
 
